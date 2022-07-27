@@ -12,7 +12,7 @@ import streamlit as st
 
 #NLTK Packages
 import nltk
-nltk.download('all')
+#nltk.download('all')
 from nltk.corpus import stopwords
 from nltk.tokenize import word_tokenize, sent_tokenize
 
